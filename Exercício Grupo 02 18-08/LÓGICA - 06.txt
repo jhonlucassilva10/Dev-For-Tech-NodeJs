@@ -1,0 +1,35 @@
+6- Faça um algoritmo que mostre o passo a passo para fazer um bolo.
+
+Caminhe até a cozinha
+Ligue o forno para pré-aquecerem fogo baixo
+Abra os armários que contém os ingredientes do bolo
+Retire dos armário e coloque sobre a mesa a farinha, o óleo, o açucar e o fermento químico
+Feche os armários
+Abra a geladeira o pegue o leite e os ovos
+Coloque-os em cima da mesa
+Abra o armário de louças, e pegue uma vasilha funda e uma xícara
+Abra a gaveta e pegue uma colher grande
+Pegue a xícara pela alça, insira no pacote de farinha, encha-a, e despeje na vasilha
+Repita este procedimento
+Pegue a xícara pela alça, insira no pacote de açucar, encha-a, e despeje na vasilha
+Pegue a garrafa de óleo , despeje na xícara até encher, pare quando chegar próximo à borda da xícara
+Despeje o óleo da xícara na vasilha
+Deixe a xícara de lado
+Pegue um ovo, bata levemente sobre a mesa, quebre a casca e despeje o conteúdo dentro da vasilha
+Repita a operação com mais 2 ovos
+Com a colher grande, misture todos os ingredientes até que a massa fique com textura homogênea
+Abra o fermento, encha a tampa com o conteúdo do frasco e despeje na vasilha
+Misture novamente 
+Abra o armário de panelas, e pegue uma forma
+Abra o armário de utensílios e pegue um guarda-napo
+Coloque um fio de óleo na forma, e espalhe com o guarda-napo
+Despeje o conteúdo da vasilha na forma
+Leve a forma até o forno
+Abra o forno
+Acomode a forma dentro do forno
+Feche o forno
+Aguarde 40 minutos
+Pegue um pano de prato
+Cubra sua mão
+Retire a forma do forno com a mão coberta pelo pano
+Leve até a mesa

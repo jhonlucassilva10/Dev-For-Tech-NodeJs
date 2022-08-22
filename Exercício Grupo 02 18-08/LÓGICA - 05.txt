@@ -1,0 +1,7 @@
+Vá até a máquina que você deseja acessar
+
+Verifique se a máquina está ligada
+
+Se estiver ligada aperte enter, digite a senha da máquina e acesse
+
+Se estiver desligada, aperte o botão de ligar, e após a máquina iniciar digite a senha e acesse

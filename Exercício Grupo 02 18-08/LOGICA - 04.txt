@@ -1,0 +1,12 @@
+4- Faça um algoritmo que mostre o passo a passo para postar uma foto em uma rede social
+
+Pegue seu celular
+Desbloqueie a tela
+Escolha qual rede social que postar a foto
+Abra o aplicativo clicando com um dos dedos em cima do ícone
+Clique na opção "adicionar foto" e sua galeria será aberta
+Escolha qual foto deseja postar, deslizando a tela com o dedo de baixo para cima
+Ao escolher a foto, clique com um dos dedos em cima, e a foto será carregada
+Clique no campo de escrita para adicionar uma legenda, e o teclado será aberto
+Digite a legenda desejada
+Clique em "postar" ou "concluir"
